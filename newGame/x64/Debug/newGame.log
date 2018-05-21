@@ -1,0 +1,4 @@
+﻿  newGame.c
+c:\users\apowe\source\repos\newgame\newgame\newgame.c(43): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\apowe\source\repos\newgame\newgame\newgame.c(40): warning C4101: 't': unreferenced local variable
+  newGame.vcxproj -> C:\Users\apowe\source\repos\newGame\x64\Debug\newGame.exe
